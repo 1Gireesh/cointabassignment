@@ -31,10 +31,10 @@ ___
  ## Preview of project
 
    - Landing Page 
-<img src="" alt="landing" />
+<img src="https://raw.githubusercontent.com/1Gireesh/cointabassignment/main/assets/sc1.png" alt="landing" />
 
    - Users informations
-<img src="" alt="userDetails" />
+<img src="https://raw.githubusercontent.com/1Gireesh/cointabassignment/main/assets/sc2.png" alt="userDetails" />
 
 
 
